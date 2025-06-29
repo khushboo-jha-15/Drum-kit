@@ -32,6 +32,6 @@ Each button is linked to a unique drum sound and shows a brief animation when ac
 
 ## 🌐 **Live Demo**
 
-👉 [**View Live Demo**](https://khushboo-jha-15.github.io/Drum-kit/)
+👉 [**View Live Demo**]( https://khushboo-jha-15.github.io/Drum-kit/)
 
 ---
